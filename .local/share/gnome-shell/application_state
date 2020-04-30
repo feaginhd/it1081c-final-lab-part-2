@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="15" last-seen="1588275517"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="3" score="23269.3851300776" last-seen="1588275521"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="340" last-seen="1588275247"/>
+    <application id="firewall-config.desktop" open-window-count="0" score="15" last-seen="1588272196"/>
+    <application id="firefox.desktop" open-window-count="1" score="54.125" last-seen="1588275522"/>
+  </context>
+</application-state>
